@@ -1,0 +1,17 @@
+.chocolate-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .chocolate-item input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .chocolate-item img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
